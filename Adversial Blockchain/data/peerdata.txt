@@ -1,0 +1,15 @@
+0, fast, fast
+1, fast, slow
+2, slow, fast
+3, fast, fast
+4, fast, slow
+5, fast, fast
+6, fast, fast
+7, fast, fast
+8, fast, fast
+9, slow, fast
+10, fast, fast
+11, fast, fast
+12, slow, slow
+13, fast, fast
+14, fast, fast
